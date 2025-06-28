@@ -1,0 +1,4 @@
+train: E:/A大三小/专业方向课程设计/Atlas_Underwater_Object_Detection/YOLOv11/txt_&_img/images
+val: E:/A大三小/专业方向课程设计/Atlas_Underwater_Object_Detection/YOLOv11/txt_&_img/images
+nc: 4
+names: ["holothurian", "echinus", "scallop", "starfish"]  
